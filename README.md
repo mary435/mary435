@@ -1,14 +1,12 @@
 ### Hi there this is Marilina 👋
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" align="left"/>
-
 - 💕 I love developing and researching.
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
 - 📫 Reach me out on: <a href=www.linkedin.com/in/marilina-orihuela>LinkedIn</a>
-
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"  />
 
 <!--
+align="left"
 **mary435/mary435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
