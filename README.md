@@ -4,6 +4,7 @@
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
 - 📫 Reach me out on: <a href=www.linkedin.com/in/marilina-orihuela>LinkedIn</a>
 
+![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <!--
 **mary435/mary435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
